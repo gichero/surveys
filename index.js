@@ -25,10 +25,11 @@ app.listen(PORT);
 
 //PROD
 //mongoDB
-//mongodb+srv://agichero:Donholm320@cluster0.1vjrq.mongodb.net/barua-pepe-prod?retryWrites=true&w=majority
+//mongodb+srv://agichero:g@th8ng8@cluster0.1vjrq.mongodb.net/barua-pepe-prod?retryWrites=true&w=majority
 //oauth
 //clientID
-//496808892081-21nmk3p9bu2ho5dl6voaoao518t26g6c.apps.googleusercontent.com
+//496808892081-36sncbl7rlnevp90mijaq633hotabtdo.apps.googleusercontent.com
 //clientSecret
-//sH7ZjTSSeu2G00Eclxeo003b
+//oI6T-5Z3DuwUVrRN08w7nwzT
+
 
