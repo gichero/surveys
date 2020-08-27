@@ -32,13 +32,3 @@ app.listen(PORT);
 //clientSecret
 //sH7ZjTSSeu2G00Eclxeo003b
 
-
-//DEV
-// const MongoClient = require('mongodb').MongoClient;
-// const uri = "mongodb+srv://soma:Donholm320@cluster0.oi8ga.mongodb.net/barua-pepe-prod?retryWrites=true&w=majority";
-// const client = new MongoClient(uri, { useNewUrlParser: true });
-// client.connect(err => {
-//   const collection = client.db("test").collection("devices");
-//   // perform actions on the collection object
-//   client.close();
-// });
