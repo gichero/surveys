@@ -25,7 +25,7 @@ app.listen(PORT);
 
 //PROD
 //mongoDB
-//mongodb+srv://agichero:<password>@cluster0.1vjrq.mongodb.net/<dbname>?retryWrites=true&w=majority
+//mongodb+srv://agichero:Donholm320@cluster0.1vjrq.mongodb.net/barua-pepe-prod?retryWrites=true&w=majority
 //oauth
 //clientID
 //496808892081-21nmk3p9bu2ho5dl6voaoao518t26g6c.apps.googleusercontent.com
@@ -35,7 +35,7 @@ app.listen(PORT);
 
 //DEV
 // const MongoClient = require('mongodb').MongoClient;
-// const uri = "mongodb+srv://soma:<password>@cluster0.oi8ga.mongodb.net/<dbname>?retryWrites=true&w=majority";
+// const uri = "mongodb+srv://soma:Donholm320@cluster0.oi8ga.mongodb.net/barua-pepe-prod?retryWrites=true&w=majority";
 // const client = new MongoClient(uri, { useNewUrlParser: true });
 // client.connect(err => {
 //   const collection = client.db("test").collection("devices");
