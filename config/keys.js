@@ -1,9 +1,9 @@
 
 //keys.js figure out which credentials to return
-if(process.env.NODE.ENV === 'production'){
+if(process.env.NODE_ENV === 'production'){
     //production
-    module.exports = require('./prod')
+    module.exports = require('./prod');
 } else {
     //development
-    module.exports = require('./dev.js');
+    module.exports = require('./dev');
 }
