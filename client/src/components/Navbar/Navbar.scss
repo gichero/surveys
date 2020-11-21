@@ -11,7 +11,7 @@ nav {
 	font-size: 2.5rem;
 	text-transform: capitalize;
 	text-decoration: none;
-	color: $mainBlack;
+	color: rgb(44, 174, 186);
 }
 .nav__list {
 	align-self: center;
@@ -20,7 +20,6 @@ nav {
 	justify-content: space-evenly;
 	grid-template-columns: repeat(3, 1fr);
 	text-align: center;
-	cursor: pointer;
 }
 
 .nav__list a {
@@ -37,27 +36,9 @@ nav {
 }
 
 #nav__link:hover {
-	color: #49a6e9;
+	color: rgb(44, 174, 186);
 }
 
-.btn {
-	background: transparent;
-	color: $mainBlack;
-	padding: 0.2rem 0.5rem;
-	letter-spacing: 0.1rem;
-	font-size: 1.3rem;
-	transition: all 0.5s linear;
-	font-weight: 700;
-	display: inline-block;
-	border: 1.5px solid $mainBlack;
-	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
-	cursor: pointer;
-	border-radius: 0.2rem;
-}
-.btn:hover {
-	color: white;
-	background: $mainBlack;
-}
 .active {
 	color: $mainBlack;
 }
